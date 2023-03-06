@@ -36,12 +36,16 @@ body{
 .thirdbox {
     border: 5px solid pink;
     width: 200px;
-    height: 525px;
+    height: 270px;
     padding-left: 30px;
     padding-bottom: 30px;
-    padding-right: 74px;
+    padding-right: 40px;
     float: right;
     margin-right: 405px ;
+    margin-top: -270px;
+    align-items: center;
+   
+    
     
     
 }
@@ -54,4 +58,5 @@ main {
     padding-top: 150px;
     
 }
+
 
