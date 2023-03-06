@@ -14,10 +14,12 @@ body{
     
 }
 .box{
+  
    width: 500px;
    height: 200px;
    border: 5px solid pink;
    align-items: center;
+   padding-left: 20px;
 
   
 
