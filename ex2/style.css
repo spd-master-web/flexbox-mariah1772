@@ -1,0 +1,43 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+
+}
+.firstbox{
+    border: 5px solid pink;
+    width: 500px;
+    height: 200px;
+    align-items: center;
+    
+}
+.secondbox {
+    border: 5px solid pink;
+    width: 500px;
+    height: 200px;
+    align-items: center;
+    
+}
+.thirdbox {
+    border: 5px solid pink;
+    width: 500px;
+    height: 200px;
+    align-items: center;
+    
+}
+
+main {
+    position: relative;
+   
+    
+    justify-content: center;
+    align-items: center;
+    padding-left: 500px;
+  
+   padding-top: 150px;
+    
+
+
+}
