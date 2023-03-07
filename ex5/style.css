@@ -11,13 +11,14 @@ nav{
     margin-left: 20px;
     padding-left: 30px;
     padding-top: 39px;
+   
     
 
 }
 
 .box{
     float: right;
-    background-color:aliceblue;
+    background-color:white;
     width: 600px;
     height: 776px;
     margin-left: 46px;
@@ -29,7 +30,19 @@ nav{
 }
 .text{
     clear: right;
+    margin-top: 40px;
 }
+
+
+footer {
+    background-color: rgb(214, 214, 214);
+    color: black;
+    padding: 10px;
+    text-align:left;
+    margin-top: 355px;
+  }
+
+
 .sidebar{
     background-color: rgb(214, 214, 214);
     float: right;
