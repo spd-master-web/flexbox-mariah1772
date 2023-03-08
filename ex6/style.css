@@ -19,6 +19,7 @@ nav {
     align-items: center;
     margin: -145px;
     padding: 166px;
+    font-family: Arial, Helvetica, sans-serif;
   
 
    
@@ -31,7 +32,6 @@ nav li a{
     display: inline-block;
     color: red;
     border-right: 3px solid red;
-  
     padding-right: 10px;
     margin-right: 10px;
 }
