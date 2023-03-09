@@ -1,0 +1,47 @@
+* {
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+}
+
+.firstbox {
+    border: 5px solid pink;
+    width: 200px;
+    height: 300px;
+    padding-left: 20px;
+    padding-bottom: 30px;
+    font-size: small;
+    padding-right: 5px;
+
+    margin-top: 169px;
+    margin-left: 390px;
+   
+}
+.secondbox{
+    border: 5px solid pink;
+    width: 200px;
+    height: 300px;
+    padding-left: 20px;
+    padding-bottom: 30px;
+    font-size: small;
+    padding-right: 5px;
+    margin-top: -183px;
+    margin-left: 585px;
+
+}
+.thirdbox{
+
+    border: 5px solid pink;
+    width: 200px;
+    height: 300px;
+    padding-left: 20px;
+    padding-bottom: 30px;
+    font-size: small;
+    padding-right: 5px;
+    margin-top: -184px;
+    margin-left: 780px;
+    margin-right: 385px;
+
+}
