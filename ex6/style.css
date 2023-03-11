@@ -9,7 +9,7 @@ nav {
     height: 57px;
     margin-top: 352px;
     margin-left: 390px;
-   padding: 10px;
+   padding: 3px;
 }
 .container{
     list-style: none;
@@ -20,14 +20,10 @@ nav {
     margin: -145px;
     padding: 166px;
     font-family: Arial, Helvetica, sans-serif;
-    
-  
-
    
-  
-
 
 }
+
 nav li a{
     position: relative;
     display: inline-block;
@@ -35,4 +31,8 @@ nav li a{
     border-right: 3px solid red;
     padding-right: 10px;
     margin-right: 10px;
+    
+ padding: 20px;
+ margin-top: -20px;
+ padding-bottom: 17px;
 }
